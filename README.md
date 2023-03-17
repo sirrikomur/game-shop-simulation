@@ -1,5 +1,7 @@
+<h3 align="center">🎖️ Turkcell Bootcamp 🎖️</h3>
 <h1 align="center">Hi 👋, This is Game Shop Simulation</h1>
-<h3 align="center">Sales, Campaigns and External Service Simulation </h3>
+<h3 align="center">Sales, Campaigns and External Service Simulation</h3>
+
 
 ### 👉 Description
 With the external service (e-government) simulation, a simulation has been made in which gamers can buy games. In this simulation, there may be campaigns in the games. Discounts are made through these campaigns.
